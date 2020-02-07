@@ -1,0 +1,7 @@
+C:\Users\1374879\Desktop\Commented-calc-app-master\U16 C# calc (Final version)\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\1374879\Desktop\Commented-calc-app-master\U16 C# calc (Final version)\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\1374879\Desktop\Commented-calc-app-master\U16 C# calc (Final version)\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\1374879\Desktop\Commented-calc-app-master\U16 C# calc (Final version)\ConsoleApp1\obj\Debug\Calc App.csprojAssemblyReference.cache
+C:\Users\1374879\Desktop\Commented-calc-app-master\U16 C# calc (Final version)\ConsoleApp1\obj\Debug\Calc App.csproj.CoreCompileInputs.cache
+C:\Users\1374879\Desktop\Commented-calc-app-master\U16 C# calc (Final version)\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\1374879\Desktop\Commented-calc-app-master\U16 C# calc (Final version)\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
